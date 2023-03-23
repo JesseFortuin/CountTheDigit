@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountTheDigit.BL", "CountTheDigit.BL\CountTheDigit.BL.csproj", "{9D74A2FF-8DBE-47F5-8808-5DC15F47CCDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountTheDigit.Test", "CountTheDigit.Test\CountTheDigit.Test.csproj", "{55237ACD-D86F-417C-A5B5-7EFFF2048918}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9D74A2FF-8DBE-47F5-8808-5DC15F47CCDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D74A2FF-8DBE-47F5-8808-5DC15F47CCDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D74A2FF-8DBE-47F5-8808-5DC15F47CCDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55237ACD-D86F-417C-A5B5-7EFFF2048918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55237ACD-D86F-417C-A5B5-7EFFF2048918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55237ACD-D86F-417C-A5B5-7EFFF2048918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55237ACD-D86F-417C-A5B5-7EFFF2048918}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
